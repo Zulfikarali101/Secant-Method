@@ -1,4 +1,4 @@
-%Metode Secant
+%Secant
 %Zulfikar Ali Ibadurrahman
 %12918030
 
